@@ -1,0 +1,9 @@
+{
+  "name":"chartRoomOnNode",
+  "version":"0.0.1",
+  "description":"Test chart room on node js",
+  "dependencies":{
+    "socket.io":"~0.9.6",
+    "mime":"~1.2.7"
+  }
+}
